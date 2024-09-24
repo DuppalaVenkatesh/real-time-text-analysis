@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/real-time-text-analysis/static/css/main.0f76c192.css",
+    "main.js": "/real-time-text-analysis/static/js/main.f046772b.js",
+    "static/js/453.5591fe8f.chunk.js": "/real-time-text-analysis/static/js/453.5591fe8f.chunk.js",
+    "index.html": "/real-time-text-analysis/index.html",
+    "main.0f76c192.css.map": "/real-time-text-analysis/static/css/main.0f76c192.css.map",
+    "main.f046772b.js.map": "/real-time-text-analysis/static/js/main.f046772b.js.map",
+    "453.5591fe8f.chunk.js.map": "/real-time-text-analysis/static/js/453.5591fe8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f76c192.css",
+    "static/js/main.f046772b.js"
+  ]
+}
